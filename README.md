@@ -12,7 +12,7 @@
 - 🥅 2021 Goals: Get Job , Start Side Projects , Make Apps
 - ⚡ Fun fact: I love to listen music and play games
 
-### Spotify Playing 🎧
+
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
@@ -77,7 +77,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
+<!-- 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -90,15 +90,15 @@
 <!--END_SECTION:activity-->
 
 </details>
+-->
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
    <a href="https://github.com/gwhitdev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdonprince&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs" />
 </a>
 
-</details>
+
 
 [website]: https://princekumar.netlify.app/
 
