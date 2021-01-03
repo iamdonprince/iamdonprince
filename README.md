@@ -94,7 +94,7 @@ END_SECTION:activity -->
 
   <summary>:zap: GitHub Stats</summary>
 
-   <a href="https://github.com/gwhitdev/github-readme-stats">
+   <a href="https://github.com/iamdonprince/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdonprince&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs" />
 </a>
 
