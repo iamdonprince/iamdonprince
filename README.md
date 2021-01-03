@@ -1,6 +1,6 @@
-### Hi there, I'm Prince - aka [iamdonprince][website] 👋
+### Hi there, I'm Prince 
 
-[![Website](https://img.shields.io/website?label=princekumar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://princekumar.netlify.app/)
+[![Website](https://img.shields.io/website?label=princekumar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://princekumar.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imprincepk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imprincepk)
 
 ## I'm a Front End Developer!!
@@ -94,7 +94,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="iamdonprince's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iamdonprince&show_icons=true&hide_border=true" />
+   <a href="https://github.com/gwhitdev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdonprince&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs" />
+</a>
 
 </details>
 
