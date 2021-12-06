@@ -3,12 +3,9 @@
 [![Website](https://img.shields.io/website?label=princekumar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://princekumar.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imprincepk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imprincepk)
 
-## I'm a Front End Developer!!
-
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+## I'm a Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for Front End Devoloper work
 - 🥅 2021 Goals: Get Job , Start Side Projects , Make Apps
 - ⚡ Fun fact: I love to listen music and play games
 
