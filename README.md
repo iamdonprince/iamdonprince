@@ -89,7 +89,6 @@ END_SECTION:activity -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdonprince&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs" />
  
 </a>
-![prince's Github Stats](https://github-readme-stats.vercel.app/api?username=iamdonprince&show_icons=true&count_private=true)
 
 
 
