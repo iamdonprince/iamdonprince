@@ -93,6 +93,7 @@ END_SECTION:activity -->
 
    <a href="https://github.com/iamdonprince/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdonprince&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs" />
+ ![prince's Github Stats](https://github-readme-stats.vercel.app/api?username=iamdonprince&show_icons=true&count_private=true)
 </a>
 
 
